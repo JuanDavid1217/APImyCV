@@ -3,8 +3,8 @@
         {
             "charge" : "Founder",
             "company": "Innovation CrazyDave Solutions.",
-            "start-date": "08/2022",
-            "end-date": "present",
+            "startdate": "08/2022",
+            "enddate": "present",
             "city": "Cordoba",
             "country": "Mex.",
             "acomplishments": [
@@ -19,8 +19,8 @@
         {
             "charge" : "Developer front-end",
             "company": "Tesla Motors",
-            "start-date": "08/2020",
-            "end-date": "05/2022",
+            "startdate": "08/2020",
+            "enddate": "05/2022",
             "city": "Fremont",
             "country": "USA",
             "acomplishments": [
@@ -35,8 +35,8 @@
         {
             "charge" : " Projec Manager",
             "company": "IBM",
-            "start-date": "01/2016",
-            "end-date": "07/2020",
+            "startdate": "01/2016",
+            "enddate": "07/2020",
             "city": "New York",
             "country": "EE.UU",
             "acomplishments": [
