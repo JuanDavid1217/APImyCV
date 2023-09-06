@@ -1,0 +1,52 @@
+{
+    "works" : [
+        {
+            "charge" : "Founder",
+            "company": "Innovation CrazyDave Solutions.",
+            "start-date": "08/2022",
+            "end-date": "present",
+            "city": "Cordoba",
+            "country": "Mex.",
+            "acomplishments": [
+                {
+                    "description": "Company creator Innovation Crazy Dave Solutions. we search give a unique experience to ours clients with quality software. "
+                },
+                {
+                    "description": "We have carried out different projects such as 'MediCan'. Specialized software for veterinarians."
+                }
+            ]
+        },
+        {
+            "charge" : "Developer front-end",
+            "company": "Tesla Motors",
+            "start-date": "08/2020",
+            "end-date": "05/2022",
+            "city": "Fremont",
+            "country": "USA",
+            "acomplishments": [
+                {
+                    "description": "Design actualization of Tesla Motors User Interface."
+                },
+                {
+                    "description": "I was leading a group of 5 developers."
+                }
+            ]
+        },
+        {
+            "charge" : " Projec Manager",
+            "company": "IBM",
+            "start-date": "01/2016",
+            "end-date": "07/2020",
+            "city": "New York",
+            "country": "EE.UU",
+            "acomplishments": [
+                {
+                    "description": "Leader of a project to automate and increase work activities through artificial intelligence so that people can get the most out of their business impact."
+                },
+                {
+                    "description": "With the support of team collaborators, we managed to finish 2 different projects on time and in the right way."
+                }
+            ]
+        }
+    ]
+}
