@@ -1,0 +1,16 @@
+{
+    "achievements&certificates" : [
+        {
+            "achievement" : "Microsoft Office 2016 Certificated (2018)",
+            "description" : "I have cetifications of Word, Excel and PowerPoint."
+        },
+        {
+            "achievement" : "English Level B1",
+            "description" : ""
+        },
+        {
+            "achievement" : "Honorary Doctorate in Artificial Intelligence (2020)",
+            "description" : "I created an Artificial Intelligence for detected premature symptoms of bone cancer."
+        }
+    ]
+}
