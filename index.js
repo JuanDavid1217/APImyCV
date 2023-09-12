@@ -21,6 +21,10 @@ app.get('/work-experience', (req, res, next)=>{
 	res.sendfile("assets/work-experience.json")
 })
 
+app.get('/Skills&Competencies', (req, res, next)=>{
+	res.sendfile("assets/Skills&Competencies.json")
+})
+
 app.listen(port,  () => 
 	console.log('listening on port ' + port
 ));

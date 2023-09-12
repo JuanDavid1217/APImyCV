@@ -1,0 +1,31 @@
+{
+    "skills&competencies" : [
+        {
+            "skill" : "Stress Resistance"
+        },
+        {
+            "skill" : "Team Work"
+        },
+        {
+            "skill" : "Agil and Efficient"
+        },
+        {
+            "skill" : "Spring Boot"
+        },
+        {
+            "skill" : "Java"
+        },
+        {
+            "skill" : "Critical Thinking"
+        },
+        {
+            "skill" : "Assertive Communication"
+        },
+        {
+            "skill" : "Full Stack Developer"
+        },
+        {
+            "skill" : "Comprehensive"
+        }
+    ]
+}
