@@ -1,0 +1,24 @@
+{
+    "interests" : [
+        {
+            "interest" : "IoT",
+            "logo" : "https://firebasestorage.googleapis.com/v0/b/mycv-6aded.appspot.com/o/IoT.png?alt=media&token=6f609b5a-047b-4196-b571-5956d8f2436e"
+        },
+        {
+            "interest" : "AI",
+            "logo" : "https://firebasestorage.googleapis.com/v0/b/mycv-6aded.appspot.com/o/AI.png?alt=media&token=2bf3e0c2-4cef-4fd1-9a50-44d7def07860"
+        },
+        {
+            "interest" : "Music",
+            "logo" : "https://firebasestorage.googleapis.com/v0/b/mycv-6aded.appspot.com/o/music.png?alt=media&token=2f3b98de-c524-4c28-b57e-0ff1f4ac3af2"
+        },
+        {
+            "interest" : "Bodybuildig",
+            "logo" : "https://firebasestorage.googleapis.com/v0/b/mycv-6aded.appspot.com/o/muscles.png?alt=media&token=ecde00f1-7ef1-409f-94cf-19cda8e9d281"
+        },
+        {
+            "interest" : "Reading",
+            "logo" : "https://firebasestorage.googleapis.com/v0/b/mycv-6aded.appspot.com/o/book.png?alt=media&token=e7c10a67-6f13-49bd-825d-6713c780a71b"
+        }
+    ]
+}
