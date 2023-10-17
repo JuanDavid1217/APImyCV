@@ -41,6 +41,10 @@ app.get('/dev-hours', (req, res, next)=>{
 	res.sendfile("assets/a1_dev_hours.json")
 })
 
+app.get('/3a-test1', (req, res, next)=>{
+	res.sendfile("assets/3a_test1.json")
+})
+
 app.listen(port,  () => 
 	console.log('listening on port ' + port
 ));
